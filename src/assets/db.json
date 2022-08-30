@@ -1,0 +1,60 @@
+{
+  "Student": [
+    {
+      "id": 103,
+      "name": "onkar",
+      "uname": "onkar",
+      "password": "onkar",
+      "address": "pune"
+    },
+    {
+      "id": 105,
+      "name": "Pankaj",
+      "uname": "Waghade",
+      "password": "pankaj@123",
+      "address": "Pune"
+    },
+    {
+      "id": 106,
+      "name": "snehit",
+      "uname": "punwatkar",
+      "password": "snehit@123",
+      "address": "Chinchala"
+    },
+    {
+      "id": 107,
+      "name": "Abhay",
+      "uname": "Pise",
+      "password": "Abhay@123",
+      "address": "Hyderabad"
+    },
+    {
+      "id": 108,
+      "name": "Vaibhav",
+      "uname": "Aswale",
+      "password": "Vaibhav@123",
+      "address": "Hyderabad"
+    },
+    {
+      "id": 109,
+      "name": "Vaibhav",
+      "uname": "Mondhe",
+      "password": "Vaibhav@123",
+      "address": "Chinchala"
+    },
+    {
+      "id": 110,
+      "name": "sanket",
+      "uname": "dhote",
+      "password": "sanket@123",
+      "address": "Chinchala"
+    },
+    {
+      "id": 111,
+      "name": "Ishawar",
+      "uname": "Turankar",
+      "password": "Ishawar@123",
+      "address": "Pune"
+    }
+  ]
+}

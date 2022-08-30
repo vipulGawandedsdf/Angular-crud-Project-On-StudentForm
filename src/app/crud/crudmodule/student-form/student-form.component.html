@@ -1,0 +1,31 @@
+<p>fsdfsdfsa</p>
+<div class="container">
+    <div class="row">
+    
+    <div class="form-group col-md-6">
+          <input type="text" class="form-control"  placeholder="Enter first name"  [(ngModel)]="commonservice.e.name">
+      </div>
+      <div class="form-group col-md-6">
+          <input type="text" class="form-control"  placeholder="Enter User uname"  [(ngModel)]="commonservice.e.uname" >
+      </div>
+    
+    </div>
+    
+    <div class="form-group">
+        <input type="text" class="form-control"  placeholder="Enter Password" [(ngModel)]="commonservice.e.password"  >
+    </div>
+    <div class="form-group">
+        <input type="text" class="form-control"  placeholder="Enter address" [(ngModel)]="commonservice.e.address"  >
+    </div>
+    
+      <div class="form-group"> 
+          <button class="btn btn-success btn-lg btn-block"  (click)="submit(commonservice.e)" >Submit</button>
+      </div>
+      <div class="form-group"> 
+        <button class="btn btn-warning btn-lg btn-block" (click)="reset(commonservice.e)">reset</button>
+    </div>
+
+     
+    </div>
+
+
